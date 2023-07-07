@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefabs/Boss.meta
+guid: b8f5f5d75bf621d45b6b0ee4abc126df
+========
+guid: cbbe6afd3b5a8c543808eb72c4ed639d
+>>>>>>>> new-poom:Assets/Scripts/Particle.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
